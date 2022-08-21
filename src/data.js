@@ -3,7 +3,7 @@ export const projects = [
       title: "React Color Palette",
       subtitle: "React",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "React app to help the designer and the developer to chose the colors they use most and get them in one group",
       image: "./img/colors.png",
       link: "https://colors-app-react.netlify.app/",
     },
@@ -11,23 +11,23 @@ export const projects = [
       title: "React Admin Panel",
       subtitle: "React",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "Simple react app that show a simple admin panel",
       image: "./img/AdminPanel.png",
       link: "https://reactjs-admin-panel.netlify.app",
     },
     {
-      title: "DevChat",
-      subtitle: "React and Firebase",
+      title: "Social media",
+      subtitle: "React",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "Simple social media home page in react",
       image: "./img/Homepage.png",
       link: "https://home-page-social-media.netlify.app",
     },
     {
-      title: "Epic Todo App",
+      title: "Todo App",
       subtitle: "React Hooks",
       description:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+        "simple react app to mange your time",
       image: "./img/Todo-app.png",
       link: "https://todo-app-ahmadaldadah.netlify.app",
     },
@@ -35,7 +35,7 @@ export const projects = [
         title: "Landing Page Natours",
         subtitle: "Html Css SCSS",
         description:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+          "Landing page for booking adventures",
         image: "./img/landing-page-2.png",
         link: "https://landing-page-natours.netlify.app",
       },
@@ -43,7 +43,7 @@ export const projects = [
         title: "Landing Page Nexter",
         subtitle: "Html Css SCSS",
         description:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+          "Landing page for house to buy and sell",
         image: "./img/landing-page-1.png",
         link: "https://landing-page-nexter.netlify.app",
       },
@@ -51,7 +51,7 @@ export const projects = [
         title: "Landing Page Trillo",
         subtitle: "Html Css SCSS",
         description:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+          "Landing page for hotel booking",
         image: "./img/landing-page-3.png",
         link: "https://landing-page-trillo.netlify.app",
       },
@@ -59,7 +59,7 @@ export const projects = [
         title: "React Yahtzee Game",
         subtitle: "React Hooks",
         description:
-          "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+          "React game Yahtzee",
         image: "./img/Yahtzee.png",
         link: "https://react-yahtzee-game-app.netlify.app",
       },

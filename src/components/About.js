@@ -11,9 +11,7 @@ function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I'm front-end developer with 2 years experiences
           </p>
           <div className="flex justify-center">
             <a
