@@ -15,9 +15,9 @@ function About() {
           </p>
           <div className="flex justify-center">
             <a
-              href="#contact"
+              href="https://doc-0c-6o-apps-viewer.googleusercontent.com/viewer/secure/pdf/eu0rivmc2kh7of9pho3aso8e5bstc65j/oek5eeelb0f0g5c9kamli36k6hsht6nb/1661204400000/drive/12323390284288799324/ACFrOgArrB6byV5xB6bsxmrQXw2CPn8GSjkqsuJbWTuRNW4hQegBMm_7Mw31vQCYy78N2VemidFl30-LD5C4oen_KE3_XWge94RDXXkJp1Girqzu3Rpz8V5GmkBAfj282QNJdbGpG3eEi_vLmlaS?print=true&nonce=34hp66qjir9io&user=12323390284288799324&hash=smldvao5q4hkfphh5fliporr66gmhi2e"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
-              Work With Me
+              My Resume
             </a>
             <a
               href="#projects"
