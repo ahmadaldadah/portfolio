@@ -11,7 +11,7 @@ export const projects = [
       title: "React Admin Panel",
       subtitle: "React",
       description:
-        "Simple react app that show a simple admin panel",
+        "Simple react app that show a simple admin panel with a list of users and a list of products to help admin to manage the users and the products",
       image: "./img/AdminPanel.png",
       link: "https://reactjs-admin-panel.netlify.app",
     },
@@ -19,23 +19,15 @@ export const projects = [
       title: "Social media",
       subtitle: "React",
       description:
-        "Simple social media home page in react",
+        "Simple social media home page in react with a list of posts and a list of users like facebook with a search bar",
       image: "./img/Homepage.png",
       link: "https://home-page-social-media.netlify.app",
-    },
-    {
-      title: "Todo App",
-      subtitle: "React Hooks",
-      description:
-        "simple react app to mange your time",
-      image: "./img/Todo-app.png",
-      link: "https://todo-app-ahmadaldadah.netlify.app",
     },
     {
         title: "Landing Page Natours",
         subtitle: "Html Css SCSS",
         description:
-          "Landing page for booking adventures",
+          "Landing page for booking adventures tours with a list of tours and a list of features and a form to book a tour",
         image: "./img/landing-page-2.png",
         link: "https://landing-page-natours.netlify.app",
       },
@@ -43,7 +35,7 @@ export const projects = [
         title: "Landing Page Nexter",
         subtitle: "Html Css SCSS",
         description:
-          "Landing page for house to buy and sell",
+          "Landing page for house to buy and sell with a list of houses and a list of features and a form to book a house to buy",
         image: "./img/landing-page-1.png",
         link: "https://landing-page-nexter.netlify.app",
       },
@@ -51,18 +43,11 @@ export const projects = [
         title: "Landing Page Trillo",
         subtitle: "Html Css SCSS",
         description:
-          "Landing page for hotel booking",
+          "Landing page for hotel booking with a list of hotels and a list of features and a form to book a hotel room and the price",
         image: "./img/landing-page-3.png",
         link: "https://landing-page-trillo.netlify.app",
       },
-      {
-        title: "React Yahtzee Game",
-        subtitle: "React Hooks",
-        description:
-          "React game Yahtzee",
-        image: "./img/Yahtzee.png",
-        link: "https://react-yahtzee-game-app.netlify.app",
-      },
+
   ];
 export const skills = [
     "JavaScript",
