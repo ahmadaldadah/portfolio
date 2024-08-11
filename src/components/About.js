@@ -1,4 +1,4 @@
-import React from 'react'
+import React from "react";
 
 function About() {
   return (
@@ -11,17 +11,24 @@ function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I'm front-end developer with 2 years experiences
+            I’m passionate about crafting amazing applications that provide
+            great user experiences. With 3 years of experience as a Front-End
+            Developer, I specialize in building dynamic, responsive, and
+            visually appealing web applications. My journey in web development
+            has equipped me with a strong foundation in modern technologies,
+            allowing me to bring ideas to life with precision and creativity.
           </p>
           <div className="flex justify-center">
             <a
-              href="https://drive.google.com/file/d/11miiNmwtmxUQ9ds3lRhM0vMxXEgt8pKx/view?usp=sharing"
-              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg">
+              href="https://drive.google.com/file/d/1VFqs-UicW8B3mXD-hCrL4JnIJvNSi3pi/view?usp=sharing"
+              className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
+            >
               My Resume
             </a>
             <a
               href="#projects"
-              className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg">
+              className="ml-4 inline-flex text-gray-400 bg-gray-800 border-0 py-2 px-6 focus:outline-none hover:bg-gray-700 hover:text-white rounded text-lg"
+            >
               See My Past Work
             </a>
           </div>
@@ -35,7 +42,7 @@ function About() {
         </div>
       </div>
     </section>
-  )
+  );
 }
 
-export default About
+export default About;
