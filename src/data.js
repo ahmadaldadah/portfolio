@@ -53,6 +53,24 @@ export const projects = [
     image: "./img/landing-page-3.png",
     link: "https://landing-page-trillo.netlify.app",
   },
+  {
+    id: "7",
+    title: "Landing Page Effect",
+    subtitle: "Html Css SCSS",
+    description:
+      "Landing page for digital company with a provide end-to-end solutions with cutting-edge website design",
+    image: "./img/effect.png",
+    link: "https://effect-landing.netlify.app/",
+  },
+  {
+    id: "8",
+    title: "Connective Lab Dashboard",
+    subtitle: "React Material UI React charts Html Css",
+    description:
+      "Dashboard for company that dealing with data and data analysis ",
+    image: "./img/connective.png",
+    link: "https://congnitive-lab.netlify.app",
+  },
 ];
 export const skills = [
   "JavaScript",

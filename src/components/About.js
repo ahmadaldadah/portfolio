@@ -7,20 +7,19 @@ function About() {
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hi, I'm Ahmad.
-            <br className="hidden lg:inline-block" />I love to build amazing
-            apps.
+            <br className="hidden lg:inline-block" />
+            Creating exceptional web applications is my passion.
           </h1>
           <p className="mb-8 leading-relaxed">
-            I’m passionate about crafting amazing applications that provide
-            great user experiences. With 3 years of experience as a Front-End
-            Developer, I specialize in building dynamic, responsive, and
-            visually appealing web applications. My journey in web development
-            has equipped me with a strong foundation in modern technologies,
-            allowing me to bring ideas to life with precision and creativity.
+            As an expert Front-End Developer, I excel at creating dynamic, responsive,
+            and visually appealing websites that offer great user experiences.
+            I’m skilled in turning UI/UX designs into fully functional and responsive websites,
+            ensuring they look and work beautifully on any screen size. With a focus on creativity and functionality,
+            I bring ideas to life in a way that leaves a lasting impact.
           </p>
           <div className="flex justify-center">
             <a
-              href="https://drive.google.com/file/d/1VFqs-UicW8B3mXD-hCrL4JnIJvNSi3pi/view?usp=sharing"
+              href="https://drive.google.com/file/d/1YY11pRDa70LrXkWpQlBL2CldYDLD9pKa/view?usp=sharing"
               className="inline-flex text-white bg-green-500 border-0 py-2 px-6 focus:outline-none hover:bg-green-600 rounded text-lg"
             >
               My Resume
